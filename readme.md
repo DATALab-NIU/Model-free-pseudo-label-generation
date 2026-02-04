@@ -8,7 +8,7 @@ If you find this work useful in your research, please consider citing:
 
 ```bibtex
 @inproceedings{your_citation_key,
-  title={Model-Free Pseudo-Label Generation for Material CT Image Segmentation},
+  title={A Resource-Efficient and Transparent Model-Free Framework for Pseudo-Label Generation in Material CT Scans},
   author={Rahman, Ashiqur; Seethi, Venkata Devesh Reddy; Yunker, Austin; Kettimuthu, Rajkumar; and Alhoori, Hamed;},
   booktitle={Proceedings of the Conference Name},
   year={2026}
