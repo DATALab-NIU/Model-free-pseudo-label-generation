@@ -76,6 +76,9 @@ Beyond materials dataset and grayscale CT scans, the algorithm can be tuned to w
 quick experiment on Diverse Dermatology Images (DDI) dataset 
 [(Detail ↗)](https://doi.org/10.71718/kqee-3z39), produced appropriate masks for ROIs on diverse skin tones.
 
+![Pseudo label generation on diverse skin tones](figures/pseudo-label-comparison-skin.png)  
+_Figure: Pseudo-label generation on sample DDI data._
+
 ## Directory Structure
 The directory structure of the repository is as follows:
 ```
